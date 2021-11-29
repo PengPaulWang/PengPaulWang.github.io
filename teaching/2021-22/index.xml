@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2021/22 on Marc Deisenroth</title><link>https://deisenroth.cc/teaching/2021-22/</link><description>Recent content in 2021/22 on Marc Deisenroth</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 22:04:54 +0100</lastBuildDate><atom:link href="https://deisenroth.cc/teaching/2021-22/index.xml" rel="self" type="application/rss+xml"/><item><title>Machine Learning Seminar (2021/22)</title><link>https://deisenroth.cc/teaching/2021-22/ml-seminar/</link><guid>https://deisenroth.cc/teaching/2021-22/ml-seminar/</guid><description>&lt;h2 id="university-college-london-comp0168">University College London (COMP0168)&lt;/h2>
+&lt;p>This course is designed to introduce students to &amp;ldquo;trending&amp;rdquo; topics within the last five years as represented in international machine learning conferences. The backbone of the course will be a series of tutorial-style introductory lectures on a given set of selected topics. This will be supplemented by seminar-style course work, where current research papers are read in common, reviewed, discussed, and presented.&lt;/p>
+&lt;h3 id="syllabus-preliminary">Syllabus (preliminary)&lt;/h3>
+&lt;ol>
+&lt;li>&lt;a href="https://deisenroth.cc/teaching/2020-21/ml-seminar/lecture_gaussian_processes.pdf">Gaussian Processes&lt;/a> (please use Acrobat Reader for the animations) &amp;mdash; Marc Deisenroth&lt;/li>
+&lt;li>&lt;a href="https://deisenroth.cc/teaching/2020-21/ml-seminar/lecture_bayesian_optimization.pdf">Bayesian Optimization&lt;/a> &amp;mdash; Marc Deisenroth&lt;/li>
+&lt;li>Bayesian Deep Learning &amp;mdash; Brooks Paige&lt;/li>
+&lt;li>Integration in Machine Learning &amp;mdash; Marc Deisenroth
+&lt;ul>
+&lt;li>&lt;a href="https://deisenroth.cc/teaching/2020-21/ml-seminar/introduction-integration.pdf">Introduction&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://deisenroth.cc/teaching/2020-21/ml-seminar/numerical-integration.pdf">Numerical Integration&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://deisenroth.cc/teaching/2020-21/ml-seminar/monte-carlo-integration.pdf">Monte-Carlo Integration&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://deisenroth.cc/teaching/2020-21/ml-seminar/normalizing-flows.pdf">Normalizing Flows&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://deisenroth.cc/teaching/2020-21/ml-seminar/time-series.pdf">Inference in Time Series&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Meta Learning &amp;mdash; Brooks Paige&lt;/li>
+&lt;/ol>
+&lt;h3 id="delivery">Delivery&lt;/h3>
+&lt;p>The course will be delivered (at least partially) online. Lecture recordings will be available for viewing at home. We will have live Q&amp;amp;A in allocated time slots, if possible on campus.&lt;/p>
+&lt;h3 id="teaching-assistants">Teaching Assistants&lt;/h3>
+&lt;ul>
+&lt;li>Yicheng Luo&lt;/li>
+&lt;li>Mirgahney H. Mohamed&lt;/li>
+&lt;li>Eric-Tuan Le&lt;/li>
+&lt;/ul>
+&lt;h3 id="resources">Resources&lt;/h3>
+&lt;h4 id="gaussian-processes">Gaussian Processes&lt;/h4>
+&lt;ul>
+&lt;li>&lt;a href="https://arxiv.org/abs/2011.04026" target="_blank" rel="noopener">Pathwise Conditioning of Gaussian Processes.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/pdf/1910.10596" target="_blank" rel="noopener">Sparse Orthogonal Variational Inference for Gaussian Processes&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://proceedings.neurips.cc/paper/2020/hash/f52db9f7c0ae7017ee41f63c2a7353bc-Abstract.html" target="_blank" rel="noopener">Task-Agnostic Amortized Inference of Gaussian Process Hyperparameters&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://proceedings.mlr.press/v31/damianou13a.pdf" target="_blank" rel="noopener">Deep Gaussian Processes&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://proceedings.mlr.press/v119/cohen20b.html" target="_blank" rel="noopener">Healing Products of Gaussian Process Experts&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://proceedings.mlr.press/v5/titsias09a.html" target="_blank" rel="noopener">Variational Learning of Inducing Variables in Sparse Gaussian Processes&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://jmlr.org/papers/v18/16-579.html" target="_blank" rel="noopener">Variational Fourier Features for Gaussian Processes&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://proceedings.mlr.press/v51/wilson16.html" target="_blank" rel="noopener">Deep Kernel Learning&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/1903.08114" target="_blank" rel="noopener">Exact Gaussian Processes on a Million Data Points&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/1811.06588" target="_blank" rel="noopener">Infinite-Horizon Gaussian Processes&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.jmlr.org/papers/v6/quinonero-candela05a.html" target="_blank" rel="noopener">A Unifying View of Sparse Approximate Gaussian Process Regression&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://jmlr.org/papers/volume9/nickisch08a/nickisch08a.pdf" target="_blank" rel="noopener">Approximations for Binary Gaussian Process Classification&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://proceedings.mlr.press/v89/lopez-lopera19a.html" target="_blank" rel="noopener">Gaussian Process Modulated Cox Processes under Linear Inequality Constraints&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/1709.01894" target="_blank" rel="noopener">Convolutional Gaussian Processes&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/1807.01613" target="_blank" rel="noopener">Conditional Neural Processes&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://papers.nips.cc/paper/2009/hash/5ea1649a31336092c05438df996a3e59-Abstract.html" target="_blank" rel="noopener">Inter-domain Gaussian Processes for Sparse Inference using Inducing Features&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.jmlr.org/papers/v6/lawrence05a.html" target="_blank" rel="noopener">Probabilistic Non-linear Principal Component Analysis with Gaussian Process Latent Variable Models&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://jmlr.org/papers/volume9/krause08a/krause08a.pdf" target="_blank" rel="noopener">Near-Optimal Sensor Placements in Gaussian Processes: Theory, Efficient Algorithms and Empirical Studies&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://proceedings.mlr.press/v119/delbridge20a.html" target="_blank" rel="noopener">Randomly Projected Additive Gaussian Processes for Regression&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://proceedings.mlr.press/v119/dutordoir20a.html" target="_blank" rel="noopener">Sparse Gaussian Processes with Spherical Harmonic Features&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://proceedings.mlr.press/v119/jankowiak20a.html" target="_blank" rel="noopener">Parametric Gaussian Process Regressors&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://proceedings.mlr.press/v119/rudner20a.html" target="_blank" rel="noopener">Inter-domain Deep Gaussian Processes&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://proceedings.mlr.press/v119/wilkinson20a.html" target="_blank" rel="noopener">State Space Expectation Propagation: Efficient Inference Schemes for Temporal Gaussian Processes&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/1502.02860" target="_blank" rel="noopener">Gaussian Processes for Data-Efficient Learning in Robotics and Control&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://papers.nips.cc/paper/2020/file/92bf5e6240737e0326ea59846a83e076-Paper.pdf" target="_blank" rel="noopener">Matern Gaussian Processes on Riemannian Manifolds&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/pdf/1807.02582" target="_blank" rel="noopener">Gaussian Processes and Kernel Methods: A Review on Connections and Equivalences&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://papers.nips.cc/paper/2018/hash/d465f14a648b3d0a1faa6f447e526c60-Abstract.html" target="_blank" rel="noopener">Learning Invariances using the Marginal Likelihood&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h4 id="bayesian-optimization">Bayesian Optimization&lt;/h4>
+&lt;ul>
+&lt;li>&lt;a href="https://arxiv.org/abs/0912.3995" target="_blank" rel="noopener">Gaussian Process Optimization in the Bandit Setting: No Regret and Experimental Design&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.jmlr.org/papers/v17/15-616.html" target="_blank" rel="noopener">A General Framework for Constrained Bayesian Optimization using Information-based Search&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stat.columbia.edu/~cunningham/pdf/GardnerICML2014.pdf" target="_blank" rel="noopener">Bayesian Optimization with Inequality Constraints&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/1301.1942" target="_blank" rel="noopener">Bayesian Optimization in a Billion Dimensions via Random Embeddings&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/1403.5607" target="_blank" rel="noopener">Bayesian Optimization with Unknown Constraints&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/1112.1217" target="_blank" rel="noopener">Entropy Search for Information-Efficient Global Optimization&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://proceedings.mlr.press/v32/hutter14.html" target="_blank" rel="noopener">An Efficient Approach for Assessing Hyperparameter Importance&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/1502.05700" target="_blank" rel="noopener">Scalable Bayesian Optimization Using Deep Neural Networks&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/1406.3896" target="_blank" rel="noopener">Freeze-Thaw Bayesian Optimization&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/1805.10196" target="_blank" rel="noopener">Maximizing Acquisition Functions for Bayesian Optimization&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://proceedings.mlr.press/v119/bodin20a.html" target="_blank" rel="noopener">Modulating Surrogates for Bayesian Optimization&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://proceedings.mlr.press/v119/mikkola20a.html" target="_blank" rel="noopener">Projective Preferential Bayesian Optimization&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://proceedings.mlr.press/v119/suzuki20a.html" target="_blank" rel="noopener">Multi-objective Bayesian Optimization using Pareto-frontier Entropy&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://proceedings.mlr.press/v89/song19b.html" target="_blank" rel="noopener">A General Framework for Multi-fidelity Bayesian Optimization with Gaussian Processes&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://papers.nips.cc/paper/2019/hash/a7b7e4b27722574c611fe91476a50238-Abstract.html" target="_blank" rel="noopener">Multi-objective Bayesian optimisation with preferences over objectives&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/pdf/1806.07555.pdf" target="_blank" rel="noopener">Stagewise Safe Bayesian Optimization with Gaussian Processes&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h4 id="integration-in-machine-learning">Integration in Machine Learning&lt;/h4>
+&lt;ul>
+&lt;li>&lt;a href="https://www.cs.ubc.ca/~murphyk/Papers/Julier_Uhlmann_mar04.pdf" target="_blank" rel="noopener">Unscented Filtering and Nonlinear Estimation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/pdf/2002.02428.pdf" target="_blank" rel="noopener">Normalizing Flows on Tori and Spheres&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/2006.10605" target="_blank" rel="noopener">Riemannian Continuous Normalizing Flows&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://royalsocietypublishing.org/doi/pdf/10.1098/rspa.2015.0142" target="_blank" rel="noopener">Probabilistic Numerics and Uncertainty in Computations&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ieeexplore.ieee.org/document/8168195/" target="_blank" rel="noopener">Classical Quadrature Rules via Gaussian Processes&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/1707.04723" target="_blank" rel="noopener">Optimal Monte Carlo Integration on Closed Manifolds&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/pdf/1504.05994v1.pdf" target="_blank" rel="noopener">On the Relation Between Gaussian Process Quadratures and Sigma-Point Methods&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/pdf/1506.02681v1.pdf" target="_blank" rel="noopener">Frank-Wolfe Bayesian Quadrature: Probabilistic Integration with Theoretical Guarantees&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://probabilistic-numerics.org/assets/pdf/Osborne2012Bayesian.pdf" target="_blank" rel="noopener">Bayesian quadrature for ratios&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://papers.nips.cc/paper/2014/file/e94f63f579e05cb49c05c2d050ead9c0-Paper.pdf" target="_blank" rel="noopener">Sampling for Inference in Probabilistic Models with Fast Bayesian Quadrature&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://link.springer.com/chapter/10.1007/11871842_29" target="_blank" rel="noopener">Bandit Based Monte-Carlo Planning&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://arxiv.org/abs/1906.10652" target="_blank" rel="noopener">Monte Carlo Gradient Estimation in Machine Learning&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ieeexplore.ieee.org/document/6530736" target="_blank" rel="noopener">Spatiotemporal Learning via Infinite-Dimensional Bayesian Filtering and Smoothing: A Look at Gaussian Process Regression Through Kalman Filtering&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cs.ubc.ca/~arnaud/doucet_godsill_andrieu_sequentialmontecarloforbayesfiltering.pdf" target="_blank" rel="noopener">On Sequential Monte Carlo Sampling Methods for Bayesian Filtering&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>

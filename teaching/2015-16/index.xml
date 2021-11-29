@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2015/16 on Marc Deisenroth</title><link>https://deisenroth.cc/teaching/2015-16/</link><description>Recent content in 2015/16 on Marc Deisenroth</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 21:02:57 +0100</lastBuildDate><atom:link href="https://deisenroth.cc/teaching/2015-16/index.xml" rel="self" type="application/rss+xml"/><item><title>Intelligent Data Analysis and Probabilistic Inference (2015/16)</title><link>https://deisenroth.cc/teaching/2015-16/probabilistic-inference/</link><guid>https://deisenroth.cc/teaching/2015-16/probabilistic-inference/</guid><description>&lt;h2 id="imperial-college-london-co-493">Imperial College London (CO-493)&lt;/h2>
+&lt;p>The course is co-taught by Duncan Gillies and Marc Deisenroth.&lt;/p>
+&lt;h3 id="syllabus">Syllabus&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.doc.ic.ac.uk/~dfg/ProbabilisticInference/IDAPISlides01.pdf" target="_blank" rel="noopener">Bayes' Theorem and Bayesian Inference&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.doc.ic.ac.uk/~dfg/ProbabilisticInference/IDAPISlides02.pdf" target="_blank" rel="noopener">Bayesian Decision Trees&lt;/a>
+-&lt;a href="https://www.doc.ic.ac.uk/~dfg/ProbabilisticInference/IDAPISlides03.pdf" target="_blank" rel="noopener">Evidence and message passing&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.doc.ic.ac.uk/~dfg/ProbabilisticInference/IDAPISlides04.pdf" target="_blank" rel="noopener">Inference in singly connected networks&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.doc.ic.ac.uk/~dfg/ProbabilisticInference/IDAPISlides05.pdf" target="_blank" rel="noopener">Building networks from data&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.doc.ic.ac.uk/~dfg/ProbabilisticInference/IDAPISlides06.pdf" target="_blank" rel="noopener">Cause and Independence&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.doc.ic.ac.uk/~dfg/ProbabilisticInference/IDAPISlides07.pdf" target="_blank" rel="noopener">Model Accuracy&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.doc.ic.ac.uk/~dfg/ProbabilisticInference/IDAPISlides08.pdf" target="_blank" rel="noopener">Approximate Inference&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.doc.ic.ac.uk/~dfg/ProbabilisticInference/IDAPISlides09.pdf" target="_blank" rel="noopener">Exact Inference&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.doc.ic.ac.uk/~dfg/ProbabilisticInference/IDAPISlides10.pdf" target="_blank" rel="noopener">Probability propagation in Join Trees&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://deisenroth.cc/teaching/2015-16/probabilistic-inference/lecture11.pdf">Probability distributions and parameter estimation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://deisenroth.cc/teaching/2015-16/probabilistic-inference/lecture12.pdf">Graphical models&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://deisenroth.cc/teaching/2015-16/probabilistic-inference/lecture13.pdf">Gaussian mixture models, EM, model selection&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://deisenroth.cc/teaching/2015-16/probabilistic-inference/lecture14.pdf">Dimensionality reduction with PCA&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://deisenroth.cc/teaching/2015-16/probabilistic-inference/lecture15.pdf">Linear discriminant analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://deisenroth.cc/teaching/2015-16/probabilistic-inference/lecture16.pdf">Sampling&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://deisenroth.cc/teaching/2015-16/probabilistic-inference/lecture17-18.pdf">Variational inference&lt;/a> by Hugh Salimbeni&lt;/li>
+&lt;/ul></description></item><item><title>Mathematical Methods (2015/16)</title><link>https://deisenroth.cc/teaching/2015-16/mathematical-methods/</link><guid>https://deisenroth.cc/teaching/2015-16/mathematical-methods/</guid><description>&lt;h2 id="imperial-college-london-co-145">Imperial College London (CO-145)&lt;/h2>
+&lt;p>The course aims to make students confident in using basic mathematical techniques for later year courses in Computing. The course is co-taught by Mahdi Cheraghchi and Marc Deisenroth.&lt;/p>
+&lt;h3 id="syllabus">Syllabus&lt;/h3>
+&lt;ul>
+&lt;li>Sequences, Series and Power Series (~8 lectures)&lt;/li>
+&lt;li>Complex Numbers (~2 lectures)&lt;/li>
+&lt;li>Linear Algebra (~9 lectures)&lt;/li>
+&lt;li>Calculus and Differential Equations (~2 lectures)&lt;/li>
+&lt;/ul>
+&lt;h3 id="lectures">Lectures&lt;/h3>
+&lt;ul>
+&lt;li>Mondays, 16:00 – 18:00 (Huxley 311). No lecture on Graduation Day (19th October)&lt;/li>
+&lt;li>Tuesdays, 11:00 – 12:00 (Huxley 308)&lt;/li>
+&lt;li>Friday, 27rd November, 15:00-16:00 (Huxley 308)&lt;/li>
+&lt;li>Friday, 4th December, 15:00-16:00 (Huxley 308)&lt;/li>
+&lt;/ul>
+&lt;h3 id="tutorials-mmts">Tutorials (MMTs)&lt;/h3>
+&lt;ul>
+&lt;li>Wednesdays, 11:00 – 12:00&lt;/li>
+&lt;li>Wednesdays, 12:00 – 13:00&lt;/li>
+&lt;li>Thursdays, 16:00 – 17:00&lt;/li>
+&lt;li>Thursdays, 17:00-18:00&lt;/li>
+&lt;li>Fridays, 9:00 – 10:00&lt;/li>
+&lt;li>Fridays, 10:00 – 11:00&lt;/li>
+&lt;/ul>
+&lt;h3 id="tests">Tests&lt;/h3>
+&lt;ul>
+&lt;li>Diagnostic Test 1: Friday, 16th October, 10:00 – 11:00 (Huxley 308)&lt;/li>
+&lt;li>Diagnostic Test 2: Friday, 30th October, 10:00 – 11:00 (Huxley 308)&lt;/li>
+&lt;li>Christmas Test: Friday, 18th December&lt;/li>
+&lt;/ul>
+&lt;h3 id="introduction-lecture">Introduction Lecture&lt;/h3>
+&lt;p>Thursday, 8 October, 14:00-16:00 (Huxley 308)&lt;/p>
+&lt;h3 id="course-material">Course Material&lt;/h3>
+&lt;ul>
+&lt;li>Summary of &lt;a href="https://deisenroth.cc/teaching/2015-16/mathematical-methods/useful_tools.pdf">useful mathematical tools&lt;/a> (prerequisites, by J Bradley and D de Jager)&lt;/li>
+&lt;li>&lt;a href="https://deisenroth.cc/teaching/2015-16/mathematical-methods/notes.pdf">Lecture notes&lt;/a>&lt;/li>
+&lt;li>Gilbert Strang: Introduction to Linear Algebra. Wellesley-Cambridge Press, 2003.&lt;/li>
+&lt;li>&lt;a href="https://deisenroth.cc/teaching/2015-16/mathematical-methods/maths_basics_aldo.pdf">Maths basics&lt;/a> (by A Faisal)&lt;/li>
+&lt;/ul></description></item></channel></rss>

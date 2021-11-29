@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Marc Deisenroth</title><link>https://deisenroth.cc/</link><description>Recent content on Marc Deisenroth</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://deisenroth.cc/index.xml" rel="self" type="application/rss+xml"/><item><title>MPD Technologies Ltd</title><link>https://deisenroth.cc/consulting/</link><guid>https://deisenroth.cc/consulting/</guid><description>&lt;p>Address:&lt;/p>
+&lt;p>12 Constance Street, London, E16 2DQ&lt;/p></description></item><item><title>Openings</title><link>https://deisenroth.cc/openings/</link><guid>https://deisenroth.cc/openings/</guid><description>&lt;meta http-equiv="refresh" content="0; url=https://sml-group.cc/openings" /></description></item><item><title>Links</title><link>https://deisenroth.cc/links/</link><guid>https://deisenroth.cc/links/</guid><description>&lt;h2 id="machine-learning-books-and-tutorials">Machine Learning Books and Tutorials&lt;/h2>
+&lt;h3 id="general-overviews">General Overviews&lt;/h3>
+&lt;h4 id="books">Books&lt;/h4>
+&lt;ul>
+&lt;li>&lt;a href="http://www.inference.phy.cam.ac.uk/itila/book.html" target="_blank" rel="noopener">Information Theory, Inference, and Learning Algorithms&lt;/a> (David MacKay, 2003)&lt;/li>
+&lt;li>&lt;a href="http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online" target="_blank" rel="noopener">Bayesian Reasoning and Machine Learning&lt;/a> (David Barber, 2012)&lt;/li>
+&lt;li>&lt;a href="http://www.cs.ubc.ca/~murphyk/MLbook/" target="_blank" rel="noopener">Machine Learning: A Probabilistic Perspective&lt;/a> (Kevin Murphy, 2013)&lt;/li>
+&lt;li>&lt;a href="http://www-stat.stanford.edu/~tibs/ElemStatLearn/" target="_blank" rel="noopener">The Elements of Statistical Learning&lt;/a> (Trevor Hastie, Robert Tibshirani and Jerome Friedman, 2009)&lt;/li>
+&lt;li>&lt;a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf" target="_blank" rel="noopener">Pattern Recognition and Machine Learning&lt;/a> (Christopher M. Bishop, 2006)&lt;/li>
+&lt;li>&lt;a href="https://web.stanford.edu/~hastie/CASI/" target="_blank" rel="noopener">Computer Age Statistical Inference: Algorithms, Evidence and Data Science&lt;/a> (Bradley Efron and Trevor Hastie, 2017)&lt;/li>
+&lt;li>&lt;a href="http://web.stanford.edu/~boyd/vmls/" target="_blank" rel="noopener">Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares&lt;/a> (Stephen Boyd and Lieven Vandenberghe, 2018)&lt;/li>
+&lt;li>&lt;a href="http://mml-book.com" target="_blank" rel="noopener">Mathematics for Machine Learning&lt;/a> (Marc Peter Deisenroth, A. Aldo Faisal and Cheng Soon Ong, 2020)&lt;/li>
+&lt;li>&lt;a href="http://alumni.media.mit.edu/~tpminka/statlearn/glossary/" target="_blank" rel="noopener">Statistical Learning Glossary&lt;/a> (Tom Minka)&lt;/li>
+&lt;/ul>
+&lt;h4 id="online-lectures">Online Lectures&lt;/h4>
+&lt;ul>
+&lt;li>&lt;a href="http://videolectures.net/" target="_blank" rel="noopener">videolectures.net&lt;/a>: A great source for all sorts of tutorials&lt;/li>
+&lt;li>&lt;a href="https://sites.google.com/view/mlss-2019/lectures-and-tutorials" target="_blank" rel="noopener">Collection of videos and lecture material from MLSS 2019&lt;/a>&lt;/li>
+&lt;li>[Collection of machine learning tutorials] (&lt;a href="https://www.youtube.com/playlist?list=PL93aLKqThq4hbACqDja5QFuFKDcNtkPXz" target="_blank" rel="noopener">https://www.youtube.com/playlist?list=PL93aLKqThq4hbACqDja5QFuFKDcNtkPXz&lt;/a> )&lt;/li>
+&lt;li>&lt;a href="https://developers.google.com/machine-learning/crash-course/" target="_blank" rel="noopener">Online ML Crash Course&lt;/a> (Google)&lt;/li>
+&lt;li>&lt;a href="https://www.coursera.org/specializations/mathematics-machine-learning" target="_blank" rel="noopener">Online course on Mathematics for Machine Learning&lt;/a> (Coursera)&lt;/li>
+&lt;/ul>
+&lt;h3 id="some-specialized-topics">Some Specialized Topics&lt;/h3>
+&lt;h4 id="books-1">Books&lt;/h4>
+&lt;ul>
+&lt;li>&lt;a href="http://www.stat.columbia.edu/~gelman/book/" target="_blank" rel="noopener">Bayesian Data Analysis&lt;/a> (Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, and Donald Rubin, 2008)&lt;/li>
+&lt;li>&lt;a href="http://gaussianprocess.org/gpml/" target="_blank" rel="noopener">Gaussian Processes for Machine Learning&lt;/a> (Carl E. Rasmussen and Christopher K. I. Williams, 2006)&lt;/li>
+&lt;li>&lt;a href="http://incompleteideas.net/book/the-book-2nd.html" target="_blank" rel="noopener">Reinforcement Learning: An Introduction&lt;/a> (Richard S. Sutton and Andrew G. Barto, 2018)&lt;/li>
+&lt;li>&lt;a href="http://pgm.stanford.edu/" target="_blank" rel="noopener">Probabilistic Graphical Models&lt;/a> (Daphne Koller and Nir Friedman, 2009)&lt;/li>
+&lt;li>&lt;a href="http://www.deeplearningbook.org" target="_blank" rel="noopener">Deep Learning&lt;/a> (Ian Goodfellow, Yoshua Bengio and Aaron Courville, 2016)&lt;/li>
+&lt;/ul>
+&lt;h4 id="online-lectures-1">Online Lectures&lt;/h4>
+&lt;ul>
+&lt;li>&lt;a href="http://videolectures.net/mlss09uk_minka_ai/" target="_blank" rel="noopener">Expectation Propagation&lt;/a> (Lecture by Tom Minka)&lt;/li>
+&lt;li>&lt;a href="http://videolectures.net/mlss09uk_murray_mcmc/" target="_blank" rel="noopener">Markov Chain Monte Carlo&lt;/a> (Lecture by Iain Murray)&lt;/li>
+&lt;li>&lt;a href="http://videolectures.net/mlss09uk_rasmussen_gp/" target="_blank" rel="noopener">Gaussian Processes&lt;/a> (Lecture by Carl Edward Rasmussen)&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=92-98SYOdlY&amp;amp;t=3s" target="_blank" rel="noopener">Gaussian Processes&lt;/a> (Lecture by Richard Turner)&lt;/li>
+&lt;/ul>
+&lt;h2 id="robotics-books">Robotics Books&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="http://www.probabilistic-robotics.org/" target="_blank" rel="noopener">Probabilistic Robotics&lt;/a> (Sebastian Thrun, Wolfram Burgard, and Dieter Fox, 2006)&lt;/li>
+&lt;li>&lt;a href="https://spiral.imperial.ac.uk:8443/bitstream/10044/1/12051/7/fnt_corrected_2014-8-22.pdf" target="_blank" rel="noopener">A Survey on Policy Search for Robotics&lt;/a> (Marc Deisenroth, Gerhard Neumann and Jan Peters, 2013)&lt;/li>
+&lt;/ul>
+&lt;h2 id="londonuk-networks">London/UK Networks&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://connect.innovateuk.org/web/london-robotics-network/" target="_blank" rel="noopener">London Robotics Network&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://lcfi.ac.uk" target="_blank" rel="noopener">Leverhulme Centre for the Future of Intelligence&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h1 id="datasets">Datasets&lt;/h1>
+&lt;ul>
+&lt;li>&lt;a href="https://zenodo.org/record/3591396#.XujyRWo2qWZ" target="_blank" rel="noopener">TAASRAD19 Radar Scans 2017-2019&lt;/a>: High-resolution radar reflectivity datasets
+&lt;a href="https://www.youtube.com/watch?v=WzRsPAVN1u8&amp;amp;list=PLyLeQN0tRck2h1ADT11Kn9O5xoRzaiNnE&amp;amp;index=9&amp;amp;t=0s" target="_blank" rel="noopener">Video description&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Cvs</title><link>https://deisenroth.cc/cv/</link><guid>https://deisenroth.cc/cv/</guid><description/></item><item><title>Slides</title><link>https://deisenroth.cc/slides/</link><guid>https://deisenroth.cc/slides/</guid><description/></item><item><title/><link>https://deisenroth.cc/admin/config.yml</link><guid>https://deisenroth.cc/admin/config.yml</guid><description/></item><item><title>Posts</title><link>https://deisenroth.cc/post/</link><guid>https://deisenroth.cc/post/</guid><description/></item><item><title>Publications</title><link>https://deisenroth.cc/publication/</link><guid>https://deisenroth.cc/publication/</guid><description/></item><item><title>Recent and Upcoming Talks</title><link>https://deisenroth.cc/talk/</link><guid>https://deisenroth.cc/talk/</guid><description/></item><item><title>Teaching</title><link>https://deisenroth.cc/teaching/</link><guid>https://deisenroth.cc/teaching/</guid><description/></item></channel></rss>

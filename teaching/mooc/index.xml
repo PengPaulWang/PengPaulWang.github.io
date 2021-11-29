@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MOOC on Marc Deisenroth</title><link>https://deisenroth.cc/teaching/mooc/</link><description>Recent content in MOOC on Marc Deisenroth</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 31 Jul 2019 15:42:49 +0100</lastBuildDate><atom:link href="https://deisenroth.cc/teaching/mooc/index.xml" rel="self" type="application/rss+xml"/><item><title>Mathematics for Machine Learning: PCA (MOOC)</title><link>https://deisenroth.cc/teaching/mooc/pca-mooc/</link><guid>https://deisenroth.cc/teaching/mooc/pca-mooc/</guid><description>&lt;h1 id="mooc-coursera">MOOC (Coursera)&lt;/h1>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/m8DoSry44js" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;h2 id="overview">Overview&lt;/h2>
+&lt;p>Learning material for a MOOC called &amp;ldquo;Mathematics for Machine Learning: PCA&amp;rdquo; on Coursera. I&amp;rsquo;m making this material available because believe that open-access learning is a good thing. However, if you are interested in getting a certificate, you will need to take the &lt;a href="https://www.coursera.org/learn/pca-machine-learning" target="_blank" rel="noopener">course on Coursera&lt;/a>.
+Principal Component Analysis (PCA) is one of the most important dimensionality reduction algorithms in machine learning. In this course, we lay the mathematical foundations to derive and understand PCA from a geometric point of view.&lt;/p>
+&lt;h2 id="pre-requisites">Pre-requisites&lt;/h2>
+&lt;p>This course is of intermediate difficulty and will require a good understanding of linear algebra as well as good Python and numpy knowledge for the tutorials.&lt;/p>
+&lt;h2 id="week-1-statistics-of-datasets">Week 1: Statistics of Datasets&lt;/h2>
+&lt;p>In this week, we learn how to summarize datasets (e.g., images) using basic statistics, such as the mean and the variance. We also look at properties of the mean and the variance when we shift or scale the original data set. We will provide mathematical intuition as well as the skills to derive the results. We will also implement our results in code (jupyter notebooks), which will allow us to practice our mathematical understand to compute averages of image data sets.&lt;/p>
+&lt;h3 id="learning-material">Learning material&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PL93aLKqThq4ipkg-Ghuv-MpiZnVxRfk_u" target="_blank" rel="noopener">Videos&lt;/a> (playlist on YouTube)&lt;/li>
+&lt;li>Tutorial (jupyter notebook): &lt;a href="https://colab.research.google.com/drive/1QPHN0HpWM2B6p62DxS2p_U-MMp65Lp9O" target="_blank" rel="noopener">Statistics of datasets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mml-book.github.io/book/mml-book.pdf" target="_blank" rel="noopener">Additional reading material&lt;/a> (pdf, Section 6.4)&lt;/li>
+&lt;/ul>
+&lt;h2 id="week-2-inner-products">Week 2: Inner Products&lt;/h2>
+&lt;p>Data can be interpreted as vectors. Vectors allow us to talk about geometric concepts, such as lengths, distances and angles to characterize similarity between vectors. This will become important later in the course when we discuss PCA.
+In this week, we will introduce and practice the concept of an inner product. Inner products allow us to talk about geometric concepts in vector spaces. More specifically, we will start with the dot product (which we may still know from school) as a special case of an inner product, and then move toward a more general concept of an inner product, which play an integral part in some areas of machine learning, such as kernel machines (this includes support vector machines and Gaussian processes).&lt;/p>
+&lt;h3 id="learning-material-1">Learning Material&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PL93aLKqThq4iOdHg_NODW3oQbWqlnapTH" target="_blank" rel="noopener">Videos&lt;/a> (playlist on YouTube)&lt;/li>
+&lt;li>Tutorial (jupyter notebook): &lt;a href="https://colab.research.google.com/drive/1ak6h_wsaQDc6WF2vbQTgax3Ial14CNw6" target="_blank" rel="noopener">Angles and distances between images&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mml-book.github.io/book/mml-book.pdf" target="_blank" rel="noopener">Additional reading material&lt;/a> (pdf, Section 3.1-3.7)&lt;/li>
+&lt;/ul>
+&lt;h2 id="week-3-projections">Week 3: Projections&lt;/h2>
+&lt;p>In this week, we will look at orthogonal projections of vectors, which live in a high-dimensional vector space, onto lower-dimensional subspaces. This will play an important role in the next module when we derive PCA. We will start off with a geometric motivation of what an orthogonal projection is and work our way through the corresponding derivation. We will end up with a single equation that allows us to project any vector onto a lower-dimensional subspace. However, we will also understand how this equation came about. We will have a small programming tutorial with a jupyter notebook.&lt;/p>
+&lt;h3 id="learning-material-2">Learning Material&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PL93aLKqThq4jsjMq4hDxjpbUYidd0ZHUa" target="_blank" rel="noopener">Videos&lt;/a> (playlist on YouTube)&lt;/li>
+&lt;li>Tutorial (jupyter notebook): &lt;a href="https://colab.research.google.com/drive/1q5T9BvLNZN5gMwiA_Udysj1fbWf2FwjQ" target="_blank" rel="noopener">Orthogonal projections&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mml-book.github.io/book/mml-book.pdf" target="_blank" rel="noopener">Additional reading material&lt;/a> (pdf, Section 3.8)&lt;/li>
+&lt;/ul>
+&lt;h2 id="week-4-principal-component-analysis">Week 4: Principal Component Analysis&lt;/h2>
+&lt;p>We can think of dimensionality reduction as a way of compressing data with some loss, similar to jpg or mp3. Principal Component Analysis (PCA) is one of the most fundamental dimensionality reduction techniques that are used in machine learning.
+In this week, we use the results from the first three modules of this course and derive PCA from a geometric point of view. Within this course, this module is the most challenging one, and we will go through an explicit derivation of PCA plus some coding exercises that will make us a proficient user of PCA.&lt;/p>
+&lt;h3 id="learning-material-3">Learning Material&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.youtube.com/playlist?list=PL93aLKqThq4i55ormO1UBuoT5SP2dKeb9" target="_blank" rel="noopener">Videos&lt;/a> (playlist on YouTube)&lt;/li>
+&lt;li>Tutorial (jupyter notebook): &lt;a href="https://colab.research.google.com/drive/1IEeesixq6yNibV3Q3pm0lEsFvNc3kUj6" target="_blank" rel="noopener">Principal component analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mml-book.github.io/book/mml-book.pdf" target="_blank" rel="noopener">Additional reading material&lt;/a> (pdf, chapter 10)&lt;/li>
+&lt;/ul>
+&lt;h2 id="team">Team&lt;/h2>
+&lt;ul>
+&lt;li>Marc Deisenroth (Lecturer)&lt;/li>
+&lt;li>Yicheng Luo (Teaching Assistant)&lt;/li>
+&lt;/ul></description></item></channel></rss>
