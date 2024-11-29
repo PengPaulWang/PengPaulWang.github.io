@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>2019/20 on Marc Deisenroth</title><link>https://deisenroth.cc/teaching/2019-20/</link><description>Recent content in 2019/20 on Marc Deisenroth</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 22:04:54 +0100</lastBuildDate><atom:link href="https://deisenroth.cc/teaching/2019-20/index.xml" rel="self" type="application/rss+xml"/><item><title>Linear Regression and Beyond (2019/20)</title><link>https://deisenroth.cc/teaching/2019-20/linear-regression-aims/</link><guid>https://deisenroth.cc/teaching/2019-20/linear-regression-aims/</guid><description>&lt;h2 id="african-institute-for-mathematical-sciences-rwanda-and-ghana">African Institute for Mathematical Sciences Rwanda and Ghana&lt;/h2>
+&lt;p>This short online course is part of the African Masters in Machine Intelligence (AMMI) at the African Institute for Mathematical Sciences (AIMS) in Rwanda and Ghana.&lt;/p>
+&lt;h3 id="syllabus">Syllabus&lt;/h3>
+&lt;ol>
+&lt;li>&lt;a href="https://deisenroth.cc/teaching/2019-20/linear-regression-aims/lecture_linear_regression.pdf">Linear Regression&lt;/a> (please use Acrobat Reader for animations)&lt;/li>
+&lt;li>&lt;a href="https://deisenroth.cc/teaching/2019-20/linear-regression-aims/lecture_gaussian_processes.pdf">Gaussian Processes&lt;/a> (please use Acrobat Reader for animations)&lt;/li>
+&lt;li>&lt;a href="https://deisenroth.cc/teaching/2019-20/linear-regression-aims/lecture_bayesian_optimization.pdf">Bayesian Optimization&lt;/a>&lt;/li>
+&lt;li>Writing Guidelines&lt;/li>
+&lt;/ol>
+&lt;h3 id="annotated-slides">Annotated Slides&lt;/h3>
+&lt;ol>
+&lt;li>&lt;a href="https://drive.google.com/open?id=1MV6vHCA5aO5FLXVt1eeb5CGMEztUWgIJ" target="_blank" rel="noopener">Linear Regression (annotated)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://deisenroth.cc/teaching/2019-20/linear-regression-aims/lecture_gp_annotated1.pdf">Gaussian Processes, Part 1 (annotated)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://deisenroth.cc/teaching/2019-20/linear-regression-aims/lecture_gp_annotated2.pdf">Gaussian Processes, Part 2 (annotated)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://deisenroth.cc/teaching/2019-20/linear-regression-aims/lecture_bo_annotated.pdf">Bayesian Optimization (annotated)&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;h3 id="tutorials">Tutorials&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://nbviewer.jupyter.org/github/mml-book/mml-book.github.io/blob/master/tutorials/tutorial_linear_regression.ipynb" target="_blank" rel="noopener">Linear Regression&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://nbviewer.jupyter.org/github/gpschool/labs/blob/2019/2019/lab_1.ipynb" target="_blank" rel="noopener">Gaussian Processes&lt;/a> (Lab 1 from GPSS 2019)&lt;/li>
+&lt;li>&lt;a href="https://nbviewer.jupyter.org/url/deisenroth.cc/teaching/2019-20/linear-regression-aims/tutorial_bayesian_optimization.ipynb" target="_blank" rel="noopener">Bayesian Optimization&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="teaching-assistants">Teaching Assistants&lt;/h3>
+&lt;ul>
+&lt;li>Abdul-Ganiy Babatunde Usman (AIMS Rwanda)&lt;/li>
+&lt;li>Aisha Alaagib (AIMS Ghana)&lt;/li>
+&lt;li>Amr Khalifa (AIMS Rwanda)&lt;/li>
+&lt;li>Jeremiah Fadugba (AIMS Ghana)&lt;/li>
+&lt;li>Kobby Panford-Quainoo (AIMS Rwanda)&lt;/li>
+&lt;li>Kossi Amouzouvi (AIMS Ghana)&lt;/li>
+&lt;li>Mustafa Alghali (AIMS Rwanda)&lt;/li>
+&lt;/ul>
+&lt;h3 id="resources">Resources&lt;/h3>
+&lt;ul>
+&lt;li>M. P. Deisenroth, A. A. Faisal, C. S. Ong: &lt;a href="https://mml-book.github.io/book/mml-book.pdf" target="_blank" rel="noopener">Mathematics for Machine Learning&lt;/a>, Cambridge University Press, 2020&lt;/li>
+&lt;li>C. E. Rasmussen, C. K. I. Williams: &lt;a href="http://www.gaussianprocess.org/gpml/chapters/RW.pdf" target="_blank" rel="noopener">Gaussian Processes for Machine Learning&lt;/a>, MIT Press, 2006&lt;/li>
+&lt;li>M. P. Deisenroth, Y. Luo, M. van der Wilk: &lt;a href="https://drafts.distill.pub/gp/" target="_blank" rel="noopener">A Practical Guide to Gaussian Processes&lt;/a>&lt;/li>
+&lt;li>B. Shahriari, K. Swersky, Z. Wang, R. P. Adams, N. de Freitas: &lt;a href="https://www.cs.ox.ac.uk/people/nando.defreitas/publications/BayesOptLoop.pdf" target="_blank" rel="noopener">Taking the Human Out of the Loop: A Review of Bayesian Optimization&lt;/a>, Transactions of the IEEE, vol. 104(1), pp. 148-175, 2016&lt;/li>
+&lt;/ul>
+&lt;h3 id="essential-preparation">Essential Preparation&lt;/h3>
+&lt;ul>
+&lt;li>Basic mathematical concepts: Chapters 2-5 of &lt;a href="https://mml-book.github.io/book/mml-book.pdf" target="_blank" rel="noopener">this book&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://deisenroth.cc/teaching/2019-20/linear-regression-aims/lecture_vector_calculus.pdf">Vector calculus&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Mathematics for Machine Learning (2019/20)</title><link>https://deisenroth.cc/teaching/2019-20/mathematics-for-machine-learning/</link><guid>https://deisenroth.cc/teaching/2019-20/mathematics-for-machine-learning/</guid><description>&lt;h2 id="imperial-college-london-co-496">Imperial College London (CO-496)&lt;/h2>
+&lt;p>The aim of the course is to provide the students the necessary mathematical background and skills in order to understand, design and implement modern statistical machine learning methodologies, as well as inference mechanisms. The course will provide examples regarding the use of mathematical tools for the design of basic machine learning and inference methodologies, such as Principal Component Analysis (PCA), Bayesian Regression and Support Vector Machines. The course is co-taught by Stefanos Zafeiriou and Marc Deisenroth.&lt;/p>
+&lt;h3 id="syllabus">Syllabus&lt;/h3>
+&lt;ol>
+&lt;li>Bayesian Linear Regression&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>Vector Calculus (e.g., partial derivatives, chain rule, Jacobian)&lt;/li>
+&lt;li>Basic probability distributions (e.g., multivariate Gaussian)&lt;/li>
+&lt;li>Bayes’ theorem&lt;/li>
+&lt;li>Conjugate priors&lt;/li>
+&lt;li>Gradient descent&lt;/li>
+&lt;li>Model selection&lt;/li>
+&lt;li>Cross validation&lt;/li>
+&lt;li>Maximum likelihood estimation&lt;/li>
+&lt;li>MAP estimation&lt;/li>
+&lt;li>Bayesian integration&lt;/li>
+&lt;li>Graphical model notation&lt;/li>
+&lt;li>Bayesian linear regression&lt;/li>
+&lt;/ul>
+&lt;ol start="2">
+&lt;li>Probabilistic PCA&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>Eigenvalues&lt;/li>
+&lt;li>Determinants&lt;/li>
+&lt;li>Basis change&lt;/li>
+&lt;li>Singular value decomposition&lt;/li>
+&lt;li>Gram-Schmidt orthonormalization&lt;/li>
+&lt;li>Rotations&lt;/li>
+&lt;li>Projections&lt;/li>
+&lt;/ul>
+&lt;ol start="3">
+&lt;li>Support Vector Machines&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>Constrained optimization&lt;/li>
+&lt;li>Lagrange multipliers&lt;/li>
+&lt;/ul>
+&lt;h3 id="lectures">Lectures&lt;/h3>
+&lt;ul>
+&lt;li>Mondays, 14:00 - 16:00&lt;/li>
+&lt;li>Fridays, 11:00 - 13:00&lt;/li>
+&lt;/ul>
+&lt;h3 id="course-support-leader">Course Support Leader&lt;/h3>
+&lt;ul>
+&lt;li>Eimear O&amp;rsquo;Sullivan&lt;/li>
+&lt;li>Kenneth Co&lt;/li>
+&lt;/ul>
+&lt;h3 id="teaching-assistants">Teaching Assistants&lt;/h3>
+&lt;p>TBD&lt;/p>
+&lt;h3 id="resources">Resources&lt;/h3>
+&lt;ul>
+&lt;li>M. P. Deisenroth, A. A. Faisal, C. S. Ong: &lt;a href="https://mml-book.github.io/book/mml-book.pdf" target="_blank" rel="noopener">Mathematics for Machine Learning&lt;/a>, Cambridge University Press, 2020&lt;/li>
+&lt;/ul>
+&lt;h3 id="essential-preparation">Essential Preparation&lt;/h3>
+&lt;ul>
+&lt;li>Basic concepts in Linear Algebra: Chapters 2-4 of &lt;a href="https://mml-book.github.io/book/mml-book.pdf" target="_blank" rel="noopener">this book&lt;/a>&lt;/li>
+&lt;li>C. M. Bishop: &lt;a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf" target="_blank" rel="noopener">Pattern Recognition and Machine Learning&lt;/a>, Springer, 2006:
+Chapters 1-3, Appendix B, C&lt;/li>
+&lt;/ul></description></item></channel></rss>
