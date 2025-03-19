@@ -4,3 +4,6 @@ teaching_marc/*
 talks/*
 talk/*
 pdf/*
+all-authors.xlsx
+robot.txt
+command_for_different_repo.txt
