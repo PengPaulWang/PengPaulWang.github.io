@@ -1,3 +1,527 @@
 User-agent: *
 
 Sitemap: https://pengpaulwang.github.io/sitemap.xml
+
+
+@article{wang2024llm,
+  title={Llm granularity for on-the-fly robot control},
+  author={Wang, Peng and Robbiani, Mattia and Guo, Zhihao},
+  journal={arXiv preprint arXiv:2406.14653},
+  year={2024}
+}
+
+pdf: https://arxiv.org/pdf/2406.14653
+
+@article{zeb2024depth,
+  title={In-depth characterization of particulate matter in a highly polluted urban environment at the foothills of Himalaya--Karakorum Region},
+  author={Zeb, Bahadar and Alam, Khan and Huang, Zhongwei and {\"O}zt{\"u}rk, Fatma and Wang, Peng and Mihaylova, Lyudmila and Khokhar, Muhammad Fahim and Munir, Said},
+  journal={Environmental Science and Pollution Research},
+  volume={31},
+  number={24},
+  pages={35705--35726},
+  year={2024},
+  publisher={Springer}
+}
+
+pdf:https://link.springer.com/article/10.1007/s11356-024-33487-4
+
+@article{wang2024deep,
+  title={A deep learning-enhanced Digital Twin framework for improving safety and reliability in human--robot collaborative manufacturing},
+  author={Wang, Shenglin and Zhang, Jingqiong and Wang, Peng and Law, James and Calinescu, Radu and Mihaylova, Lyudmila},
+  journal={Robotics and computer-integrated manufacturing},
+  volume={85},
+  pages={102608},
+  year={2024},
+  publisher={Elsevier}
+}
+
+pdf:https://www.sciencedirect.com/science/article/pii/S0736584523000832
+
+@article{xiao2023llm,
+  title={Llm a*: Human in the loop large language models enabled a* search for robotics},
+  author={Xiao, Hengjia and Wang, Peng},
+  journal={arXiv preprint arXiv:2312.01797},
+  year={2023}
+}
+
+pdf: https://arxiv.org/pdf/2312.01797
+
+@inproceedings{carr2023human,
+  title={A human-friendly verbal communication platform for multi-robot systems: Design and principles},
+  author={Carr, Christopher and Wang, Peng and Wang, Shengling},
+  booktitle={UK Workshop on Computational Intelligence},
+  pages={580--594},
+  year={2023},
+  organization={Springer}
+}
+
+pdf:https://arxiv.org/pdf/2211.09519
+
+@article{ahmad2022air,
+  title={Air quality assessment along China-Pakistan economic corridor at the confluence of Himalaya-Karakoram-Hindukush},
+  author={Ahmad, Maqbool and Hussain, Khadim and Nasir, Jawad and Huang, Zhongwei and Alam, Khan and Liaquat, Samreen and Wang, Peng and Hussain, Waqar and Mihaylova, Lyudmila and Ali, Ajaz and others},
+  journal={Atmosphere},
+  volume={13},
+  number={12},
+  pages={1994},
+  year={2022},
+  publisher={MDPI}
+}
+
+pdf:https://www.mdpi.com/2073-4433/13/12/1994
+
+@article{carr2022attacking,
+  title={Attacking digital twins of robotic systems to compromise security and safety},
+  author={Carr, Christopher and Wang, Shenglin and Wang, Peng and Han, Liangxiu},
+  journal={arXiv preprint arXiv:2211.09507},
+  year={2022}
+}
+pdf:https://arxiv.org/pdf/2211.09507
+
+@article{carr2022fast,
+  title={Fast-spanning ant colony optimisation (FaSACO) for mobile robot coverage path planning},
+  author={Carr, Christopher and Wang, Peng},
+  journal={arXiv preprint arXiv:2205.15691},
+  year={2022}
+}
+pdf:https://arxiv.org/pdf/2205.15691
+
+@inproceedings{lin2022image,
+  title={Image Fusion for Remote Sizing of Hot High Quality Steel Sections},
+  author={Lin, Y and Wang, Peng and Muroiwa, Ree and Pike, Simon and Mihaylova, Lyudmila},
+  booktitle={Advances in Computational Intelligence Systems: Contributions Presented at the 20th UK Workshop on Computational Intelligence, September 8-10, 2021, Aberystwyth, Wales, UK 20},
+  pages={357--368},
+  year={2022},
+  organization={Springer}
+}
+pdf:https://eprints.whiterose.ac.uk/176450/1/ProcSci_TeX%20Final.pdf
+
+@inproceedings{wang2021real,
+  title={Real-time Activation Pattern Monitoring and Uncertainty Characterisation in Image Classification},
+  author={Wang, Shenglin and Wang, Peng and Mihaylova, Lyudmila and Hill, Matthew},
+  booktitle={2021 IEEE 24th International Conference on Information Fusion (FUSION)},
+  pages={1--7},
+  year={2021},
+  organization={IEEE}
+}
+pdf:https://eprints.whiterose.ac.uk/177515/1/Fusion_2021_paper%20Aug%2026%202021.pdf
+
+@article{wang2021gaussian,
+  title={A Gaussian process method with uncertainty quantification for air quality monitoring},
+  author={Wang, Peng and Mihaylova, Lyudmila and Chakraborty, Rohit and Munir, Said and Mayfield, Martin and Alam, Khan and Khokhar, Muhammad Fahim and Zheng, Zhengkai and Jiang, Chengxi and Fang, Hui},
+  journal={Atmosphere},
+  volume={12},
+  number={10},
+  pages={1344},
+  year={2021},
+  publisher={MDPI}
+}
+pdf:https://www.mdpi.com/2073-4433/12/10/1344
+
+@article{wang2021feature,
+  title={Feature-refined box particle filtering for autonomous vehicle localisation with OpenStreetMap},
+  author={Wang, Peng and Mihaylova, Lyudmila and Bonnifait, Philippe and Xu, Philippe and Jiang, Jianwen},
+  journal={Engineering Applications of Artificial Intelligence},
+  volume={105},
+  pages={104445},
+  year={2021},
+  publisher={Elsevier}
+}
+pdf:https://www.sciencedirect.com/science/article/pii/S0952197621002931?casa_token=YIrq9rsAMKIAAAAA:JTGZ7CSHdQvHnpGwvhqgf1eSOdzkO7qCxdQ597eDWLPlyJ84EvXBEDd5R5Vz_1plQ7BhDnTY
+
+@inproceedings{zhu2021convolutional,
+  title={A convolutional neural network combined with a Gaussian process for speed prediction in traffic networks},
+  author={Zhu, Yifei and Wang, Peng and Mihaylova, Lyudmila},
+  booktitle={2021 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI)},
+  pages={1--7},
+  year={2021},
+  organization={IEEE}
+}
+pdf:https://ieeexplore-ieee-org.mmu.idm.oclc.org/document/9591204
+
+
+@article{wang2021computationally,
+  title={A computationally efficient symmetric diagonally dominant matrix projection-based Gaussian process approach},
+  author={Wang, Peng and Mihaylova, Lyudmila and Munir, Said and Chakraborty, Rohit and Wang, Jikai and Mayfield, Martin and Alam, Khan and Khokhar, Muhammad Fahim and Coca, Daniel},
+  journal={Signal Processing},
+  volume={183},
+  pages={108034},
+  year={2021},
+  publisher={Elsevier}
+}
+pdf:https://www.sciencedirect.com/science/article/pii/S0165168421000736?casa_token=Lt1LpAyO6ykAAAAA:4u5YyRo-b4unm7thQesn3kbe-P9e_SkoeogAGgjhi9SesAChyQo85M1sPkRZgIcOo42ham7U
+
+
+@misc{wang20212,
+  title={2.6. 1--Monitoring RAS operation},
+  author={Wang, Peng and Wang, Shenglin and Law, James and Mihaylova, Lyudmila},
+  year={2021}
+}
+pdf:https://www.researchgate.net/publication/351936374_261_-Monitoring_RAS_operation_Practical_guidance_-collaborative_robots_cobots
+
+@article{altuwayjiri2021general,
+  title={General discussion: Trends in emissions concentrations},
+  author={Altuwayjiri, Abdulmalik H and Bloss, William J and Harrison, Roy M and Mihaylova, Lyudmila and Molina, Luisa T and Aravena, Andrea M Oyarz{\'u}n and Pfrang, Christian and Schauer, Jamie and Slater, Jessica and Srivastava, Deepchandra and others},
+  journal={Faraday discussions},
+  volume={226},
+  pages={100--111},
+  year={2021},
+  publisher={Royal Society of Chemistry}
+}
+pdf:https://pubs.rsc.org/en/content/articlepdf/2021/fd/d1fd90013g?casa_token=Q7kzyhC50UYAAAAA:Gvezf98GNlP1gQ1uu-Mx6RmpAfLKtT8nWOxuXf_C98v6FbO_sMmzMLMn8OKtoOK37jtc7nli_f5S
+
+@article{bloss2021general,
+  title={General discussion: Urban air quality; Meteorological influences and air quality trends},
+  author={Bloss, William and Brimblecombe, Peter and Chen, Ying and Coe, H and Gani, Shahzad and Gen, Masao and Grimmond, Sue and Harrison, Roy and McFiggans, Gordon and Mihaylova, Lyudmila and others},
+  journal={Faraday discussions},
+  volume={226},
+  pages={191--206},
+  year={2021},
+  publisher={Royal Society of Chemistry}
+}
+pdf:https://pubs.rsc.org/en/content/articlepdf/2021/fd/d1fd90014e?casa_token=6lTSFpx3FPAAAAAA:C4dugOrbiLVNyoNf9L9r-A58gNqTIWUC9collMKLKPf6ogAw6xkyr5alX8gieW3x4fVFrIOBsolt
+
+@inproceedings{wang2020geometrical,
+  title={Geometrical Features based Visual Relocalization for Indoor Service Robot},
+  author={Wang, Jikai and Dai, Deyun and Wang, Peng and Zhao, Hao and Xu, Meng and Chen, Zonghai},
+  booktitle={2020 5th International Conference on Communication, Image and Signal Processing (CCISP)},
+  pages={118--122},
+  year={2020},
+  organization={IEEE}
+}
+pdf:https://ieeexplore-ieee-org.mmu.idm.oclc.org/document/9273485
+
+@article{jiang2020lipmatch,
+  title={LiPMatch: LiDAR point cloud plane based loop-closure},
+  author={Jiang, Jianwen and Wang, Jikai and Wang, Peng and Bao, Peng and Chen, Zonghai},
+  journal={IEEE Robotics and Automation Letters},
+  volume={5},
+  number={4},
+  pages={6861--6868},
+  year={2020},
+  publisher={IEEE}
+}
+pdf:https://ieeexplore-ieee-org.mmu.idm.oclc.org/document/9185044
+
+@inproceedings{wang2020bayesian,
+  title={Bayesian neural networks uncertainty quantification with cubature rules},
+  author={Wang, Peng and Bouaynaya, Nidhal C and Mihaylova, Lyudmila and Wang, Jikai and Zhang, Qibin and He, Renke},
+  booktitle={2020 International Joint Conference on Neural Networks (IJCNN)},
+  pages={1--7},
+  year={2020},
+  organization={IEEE}
+}
+pdf:https://ieeexplore-ieee-org.mmu.idm.oclc.org/document/9207214
+
+@inproceedings{wang2020weighted,
+  title={A weighted variance approach for uncertainty quantification in high quality steel rolling},
+  author={Wang, Peng and Lin, Yueda and Muroiwa, Ree and Pike, Simon and Mihaylova, Lyudmila},
+  booktitle={2020 IEEE 23rd International Conference on Information Fusion (FUSION)},
+  pages={1--7},
+  year={2020},
+  organization={IEEE}
+}
+pdf:https://eprints.whiterose.ac.uk/161390/1/Paper%20for%20Uncertainty%20Quantification%20in%20Hot%20Steel%20Segmentation%20Fusion_2020.pdf
+
+@article{wang2020regression,
+  title={Regression forest based RGB-D visual relocalization using coarse-to-fine strategy},
+  author={Wang, Jikai and Wang, Peng and Dai, Deyun and Xu, Meng and Chen, Zonghai},
+  journal={IEEE Robotics and Automation Letters},
+  volume={5},
+  number={3},
+  pages={4431--4438},
+  year={2020},
+  publisher={IEEE}
+}
+pdf:https://ieeexplore-ieee-org.mmu.idm.oclc.org/document/9109706
+
+@article{zhang2019improved,
+  title={An improved particle filter for mobile robot localization based on particle swarm optimization},
+  author={Zhang, Qi-bin and Wang, Peng and Chen, Zong-hai},
+  journal={Expert Systems with Applications},
+  volume={135},
+  pages={181--193},
+  year={2019},
+  publisher={Elsevier}
+}
+pdf:https://www.sciencedirect.com/science/article/pii/S0957417419304063?casa_token=MG4Grq8DGqgAAAAA:5cqnJLpQmlPOjqW6pAdiXRhJfaPdfgV6sJk99T8q3STmQdcSTxyQepgwWg177L1PmJ9MxHBe
+
+@inproceedings{offor2019multi,
+  title={Multi-Model Bayesian Kriging for Urban Traffic State Prediction},
+  author={Offor, Kennedy J and Wang, Peng and Mihaylova, Lyudmila},
+  booktitle={2019 sensor data fusion: Trends, solutions, applications (SDF)},
+  pages={1--6},
+  year={2019},
+  organization={IEEE}
+}
+pdf:https://ieeexplore-ieee-org.mmu.idm.oclc.org/abstract/document/8916655
+
+@inproceedings{wang2019computer,
+  title={Computer vision methods for automating high temperature steel section sizing in thermal images},
+  author={Wang, Peng and Lin, Yueda and Muroiwa, Ree and Pike, Simon and Mihaylova, Lyudmila},
+  booktitle={2019 Sensor Data Fusion: Trends, Solutions, Applications (SDF)},
+  pages={1--6},
+  year={2019},
+  organization={IEEE}
+}
+pdf:https://eprints.whiterose.ac.uk/152066/1/SDF_2019_Accepted.pdf
+
+@article{jiang2019pou,
+  title={POU-SLAM: Scan-to-model matching based on 3D voxels},
+  author={Jiang, Jianwen and Wang, Jikai and Wang, Peng and Chen, Zonghai},
+  journal={Applied Sciences},
+  volume={9},
+  number={19},
+  pages={4147},
+  year={2019},
+  publisher={MDPI}
+}
+pdf:https://www.mdpi.com/2076-3417/9/19/4147
+
+@article{kim2019scalable,
+  title={Scalable learning with a structural recurrent neural network for short-term traffic prediction},
+  author={Kim, Youngjoo and Wang, Peng and Mihaylova, Lyudmila},
+  journal={IEEE Sensors Journal},
+  volume={19},
+  number={23},
+  pages={11359--11366},
+  year={2019},
+  publisher={IEEE}
+}
+pdf:https://ieeexplore-ieee-org.mmu.idm.oclc.org/document/8792103
+
+@inproceedings{kim2019structural,
+  title={Structural recurrent neural network for traffic speed prediction},
+  author={Kim, Youngjoo and Wang, Peng and Mihaylova, Lyudmila},
+  booktitle={ICASSP 2019-2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={5207--5211},
+  year={2019},
+  organization={IEEE}
+}
+pdf:https://ieeexplore-ieee-org.mmu.idm.oclc.org/document/8683670
+
+@article{zhang2019mobile,
+  title={Mobile robot pose estimation by qualitative scan matching with 2d range scans},
+  author={Zhang, Qibin and Wang, Peng and Chen, Zonghai},
+  journal={Journal of Intelligent \& Fuzzy Systems},
+  volume={36},
+  number={4},
+  pages={3235--3247},
+  year={2019},
+  publisher={IOS Press}
+}
+pdf:https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs18020
+
+@inproceedings{wang2018box,
+  title={Box particle filtering for slam with bounded errors},
+  author={Wang, Peng and Xu, Philippe and Bonnifait, Philippe and Jiang, Jianwen},
+  booktitle={2018 15th International Conference on Control, Automation, Robotics and Vision (ICARCV)},
+  pages={1032--1038},
+  year={2018},
+  organization={IEEE}
+}
+pdf:https://ieeexplore-ieee-org.mmu.idm.oclc.org/document/8581234
+
+@inproceedings{kim2018capsule,
+  title={A capsule network for traffic speed prediction in complex road networks},
+  author={Kim, Youngjoo and Wang, Peng and Zhu, Yifei and Mihaylova, Lyudmila},
+  booktitle={2018 Sensor Data Fusion: Trends, Solutions, Applications (SDF)},
+  pages={1--6},
+  year={2018},
+  organization={IEEE}
+}
+pdf:https://arxiv.org/pdf/1807.10603
+
+@inproceedings{wang2018short,
+  title={Short-term traffic prediction with vicinity Gaussian process in the presence of missing data},
+  author={Wang, Peng and Kim, Youngjoo and Vaci, Lubos and Yang, Haoze and Mihaylova, Lyudmila},
+  booktitle={2018 Sensor Data Fusion: Trends, Solutions, Applications (SDF)},
+  pages={1--6},
+  year={2018},
+  organization={IEEE}
+}
+pdf:https://eprints.whiterose.ac.uk/136057/1/SDF%202018%20GP%20for%20traffic%20prediction%20final.pdf
+
+@article{rehman2018person,
+  title={Person re-identification post-rank optimization via hypergraph-based learning},
+  author={Rehman, Saeed-Ur and Chen, Zonghai and Raza, Mudassar and Wang, Peng and Zhang, Qibin},
+  journal={Neurocomputing},
+  volume={287},
+  pages={143--153},
+  year={2018},
+  publisher={Elsevier}
+}
+pdf:https://www.sciencedirect.com/science/article/pii/S0925231218301279?casa_token=HtI8DOq__9IAAAAA:xeyvPQdk4kpcfuvPxWvFMX1m46ct31cp7dtVUbGJalP9F74zb9YJlUX33DPp6LTdigcor3vF
+
+@article{wang2018novel,
+  title={A novel qualitative motion model based probabilistic indoor global localization method},
+  author={Wang, Jikai and Wang, Peng and Chen, Zonghai},
+  journal={Information Sciences},
+  volume={429},
+  pages={284--295},
+  year={2018},
+  publisher={Elsevier}
+}
+pdf:https://www.sciencedirect.com/science/article/pii/S0020025517302347?casa_token=nwumdpcIZXAAAAAA:-Gd_TWasv9e3LAGVgI9U1c9wL6xsH0KY4jengbh1aTIiHgeuunz3E5pqLyg5xp-DyEEfWaeg
+
+@article{raza2018framework,
+  title={Framework for estimating distance and dimension attributes of pedestrians in real-time environments using monocular camera},
+  author={Raza, Mudassar and Chen, Zonghai and Rehman, Saeed Ur and Wang, Peng and Wang, Ji-Kai},
+  journal={Neurocomputing},
+  volume={275},
+  pages={533--545},
+  year={2018},
+  publisher={Elsevier}
+}
+pdf:https://www.sciencedirect.com/science/article/pii/S0925231217314820?casa_token=pQ82TEwWwp0AAAAA:lawLCnL3gwm4NeZcmfgHqHMCB7BapwIEaK5D4rhcwyuTZEHQS_3QuZHOKDg0uNOMnWriyvze
+
+@article{raza2018appearance,
+  title={Appearance based pedestrians’ head pose and body orientation estimation using deep learning},
+  author={Raza, Mudassar and Chen, Zonghai and Rehman, Saeed-Ur and Wang, Peng and Bao, Peng},
+  journal={Neurocomputing},
+  volume={272},
+  pages={647--659},
+  year={2018},
+  publisher={Elsevier}
+}
+pdf:https://www.sciencedirect.com/science/article/pii/S0925231217312869?casa_token=Gw58p3KWwF0AAAAA:AHleWCgRYJdeUsUhv0-JKMbL9QtoJ2N0xgTayk23xwj6Vg_cKZq6pp5eyTvOeOUpJ4MCgtML
+
+@inproceedings{zhang2017mobile,
+  title={Mobile robot global localization using particle swarm optimization with a 2D range scan},
+  author={Zhang, Qibin and Wang, Peng and Bao, Peng and Chen, Zonghai},
+  booktitle={Proceedings of the 3rd International Conference on Robotics and Artificial Intelligence},
+  pages={105--109},
+  year={2017}
+}
+pdf:https://dl.acm.org/doi/pdf/10.1145/3175603.3175618?casa_token=Vj28gHwl6Q0AAAAA:6CQ8SnTDaGhZNG7GbhdaPfR4Cmwyo2UWBDkW32ab3FSlBTlyMZ-w6MPJe_HIiVfIBPNF7yopGS4
+
+@inproceedings{ge20172,
+  title={A 2.5 D grids based moving detection methodology for autonomous vehicle},
+  author={Ge, Zhenhua and Wang, Peng and Wang, Jikai and Chen, Zonghai},
+  booktitle={2017 2nd international conference on robotics and automation engineering (ICRAE)},
+  pages={403--407},
+  year={2017},
+  organization={IEEE}
+}
+pdf:https://ieeexplore-ieee-org.mmu.idm.oclc.org/document/8291419
+
+@inproceedings{wang2017partition,
+  title={Partition cost-sensitive CART based on customer value for Telecom customer churn prediction},
+  author={Wang, Chuanqi and Li, Ruiqi and Wang, Peng and Chen, Zonghai},
+  booktitle={2017 36th Chinese Control Conference (CCC)},
+  pages={5680--5684},
+  year={2017},
+  organization={IEEE}
+}
+pdf:https://ieeexplore-ieee-org.mmu.idm.oclc.org/document/8028259
+
+@article{qu2017grey,
+  title={A Grey Qualitative Based Approach for Environmental Information Analysis.},
+  author={Qu, Weiwei and Chen, Zonghai and Wang, Peng and Sun, Jian},
+  journal={Journal of Grey System},
+  volume={29},
+  number={2},
+  year={2017}
+}
+pdf:https://www.researchgate.net/profile/Zonghai-Chen-2/publication/334130054_A_Grey_Qualitative_Based_Approach_for_Environmental_Information_Analysis/links/5d19790ca6fdcc2462b4979d/A-Grey-Qualitative-Based-Approach-for-Environmental-Information-Analysis.pdf
+
+@article{zhang2017velocity,
+  title={Velocity space based concurrent obstacle avoidance and trajectory tracking for mobile robots},
+  author={Zhang, Qi-bin and Wang, Peng and Chen, Zonghai},
+  journal={Control and Decision},
+  volume={32},
+  number={2},
+  pages={358--362},
+  year={2017}
+}
+pdf:
+
+@inproceedings{li2016feature,
+  title={A feature extraction method based on stacked auto-encoder for telecom churn prediction},
+  author={Li, Ruiqi and Wang, Peng and Chen, Zonghai},
+  booktitle={Theory, Methodology, Tools and Applications for Modeling and Simulation of Complex Systems: 16th Asia Simulation Conference and SCS Autumn Simulation Multi-Conference, AsiaSim/SCS AutumnSim 2016, Beijing, China, October 8-11, 2016, Proceedings, Part I 16},
+  pages={568--576},
+  year={2016},
+  organization={Springer}
+}
+pdf:https://www.researchgate.net/profile/Zonghai-Chen-2/publication/334132025_A_Feature_Extraction_Method_Based_on_Stacked_Auto-Encoder_for_Telecom_Churn_Prediction/links/5d19da46458515c11c06d872/A-Feature-Extraction-Method-Based-on-Stacked-Auto-Encoder-for-Telecom-Churn-Prediction.pdf
+
+@article{wang2016loop,
+  title={A loop closure improvement method of Gmapping for low cost and resolution laser scanner},
+  author={Wang, Peng and Chen, Zonghai and Zhang, Qibin and Sun, Jian},
+  journal={IFAC-PapersOnLine},
+  volume={49},
+  number={12},
+  pages={168--173},
+  year={2016},
+  publisher={Elsevier}
+}
+pdf:https://www.researchgate.net/profile/Zonghai-Chen-2/publication/334131945_ScienceDirect_A_loop_closure_improvement_method_of_Gmapping_for_low_cost_and_resolution_laser_scanner/links/5d19dad5458515c11c06da10/ScienceDirect-A-loop-closure-improvement-method-of-Gmapping-for-low-cost-and-resolution-laser-scanner.pdf
+
+@article{dong2016online,
+  title={An online model-based method for state of energy estimation of lithium-ion batteries using dual filters},
+  author={Dong, Guangzhong and Chen, Zonghai and Wei, Jingwen and Zhang, Chenbin and Wang, Peng},
+  journal={Journal of Power Sources},
+  volume={301},
+  pages={277--286},
+  year={2016},
+  publisher={Elsevier}
+}
+pdf:https://www.sciencedirect.com/science/article/pii/S0378775315303980?casa_token=IWPSisw5pD0AAAAA:nQ9TOfdmv4wlalc8mjdIIQEnp0E3Qf8IylbC2KJxtR8XiIOuZFFOpk-c_IIFVmIMNrDtxsXd
+
+@article{wang2015feature,
+  title={Feature extension and matching for mobile robot global localization},
+  author={Wang, Peng and Zhang, Qibin and Chen, Zonghai},
+  journal={Journal of Systems Engineering and Electronics},
+  volume={26},
+  number={4},
+  pages={840--846},
+  year={2015}
+}
+pdf:https://www.researchgate.net/profile/Zonghai-Chen-2/publication/334139203_Feature_extension_and_matching_for_mobile_robot_global_localization/links/5d1a1aae299bf1547c8df844/Feature-extension-and-matching-for-mobile-robot-global-localization.pdf
+
+@article{wang2015grey,
+  title={A grey probability measure set based mobile robot position estimation algorithm},
+  author={Wang, Peng and Zhang, Qi-Bin and Chen, Zong-Hai},
+  journal={International Journal of Control, Automation and Systems},
+  volume={13},
+  number={4},
+  pages={978--985},
+  year={2015},
+  publisher={Springer}
+}
+pdf:https://www.researchgate.net/profile/Peng-Wang-53/publication/280067267_A_Grey_Probability_Measure_Set_Based_Mobile_Robot_Position_Estimation_Algorithm/links/5c308f3e299bf12be3aeaae7/A-Grey-Probability-Measure-Set-Based-Mobile-Robot-Position-Estimation-Algorithm.pdf
+
+@article{wang2015grey,
+  title={Grey qualitative modeling and control method for subjective uncertain systems},
+  author={Wang, Peng and Li, Shu-Jie and Lv, Yan and Chen, Zong-Hai},
+  journal={International Journal of Automation and Computing},
+  volume={12},
+  number={1},
+  pages={70--76},
+  year={2015},
+  publisher={Springer}
+}
+pdf:https://link.springer.com/content/pdf/10.1007/s11633-014-0820-7.pdf
+
+@inproceedings{wang2013gray,
+  title={Gray-dynamic EKF for mobile robot SLAM in indoor environment},
+  author={Wang, Peng and Zhang, Qibin and Chen, Zonghai},
+  booktitle={2013 6th IEEE Conference on Robotics, Automation and Mechatronics (RAM)},
+  pages={43--48},
+  year={2013},
+  organization={IEEE}
+}
+pdf:https://www.researchgate.net/profile/Zonghai-Chen-2/publication/334152834_Gray-dynamic_EKF_for_Mobile_Robot_SLAM_in_Indoor_Environment/links/5d1aa34da6fdcc2462b7326e/Gray-dynamic-EKF-for-Mobile-Robot-SLAM-in-Indoor-Environment.pdf
+
+pdf:
+
+pdf:
+
+pdf:
+
+pdf:
+
+pdf:
+
+pdf:
